@@ -1,10 +1,12 @@
-# DIO Santander - Gerenciador de salas de reunião
+# DIO Santander - Controle de Ponto
 
-API REST para gerenciamento de salas de reunião utilizando Spring Boot, Spring Data para persistência de dados e o banco in-memory H2.
+API REST para controle de ponto e acesso dos usuários de uma empresa. 
 
 Projeto criado para o **Bootcamp Santander Fullstack Developer** pela plataforma da  **Digital Innovation One**.
 
 Author: [Guilherme Ferreira Batista]
+
+> API REST para controle de ponto e acesso dos usuários de uma empresa.
 
 ### Environment
 
